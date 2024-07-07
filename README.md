@@ -1,6 +1,6 @@
 ## About Me:👋
 
- I’m Front-end developer
+ I’m Front-end developer.
  I’m currently learning Angular and TypeScript
  I’m looking to collaborate on Web development 
  I’m looking for help with  React and Laravel

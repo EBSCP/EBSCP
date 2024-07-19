@@ -5,13 +5,13 @@ take part in versatile and innovative projects. I believe that I will carry out 
 my sincerity
 
 ## About Me:
-I'm Fullstack Web Developer
-I'm currently working on Angular
-I'm studying Computer Engineering
-I'm looking to collaborate on Web Development
-I'm learning for back-end Java and Pyhton
-I'm 20.
-I know OOP
+I'm Fullstack Web Developer <br>
+I'm currently working on Angular  <br>
+I'm studying Computer Engineering  <br>
+I'm looking to collaborate on Web Development  <br>
+I'm learning for back-end Java and Pyhton  <br>
+I'm 20.  <br>
+I know OOP and MVC  <br>
 I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C# and TS
 ###
 

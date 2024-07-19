@@ -1,9 +1,18 @@
-## About Me:👋
+## Introduce Me:👋
 I am someone who can communicate quickly with people, is solution-oriented, and compatible with teamwork. I
 attach great importance to learning new things and improving my skills. I am working on this purpose. I want to
 take part in versatile and innovative projects. I believe that I will carry out selfless work together with you with all
 my sincerity
 
+## About Me:
+I'm Fullstack Web Developer
+I'm currently working on Angular
+I'm studying Computer Engineering
+I'm looking to collaborate on Web Development
+I'm learning for back-end Java and Pyhton
+I'm 20.
+I know OOP
+I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C# and TS
 ###
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -70,7 +79,7 @@ my sincerity
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
 
 <!-- Laravel Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel logo" />
+<img src="https://github.com/EBSCP/pythonEducation/blob/main/indir%20(1).jpg" height="30" alt="Laravel logo" />
 
 <!-- SQLite Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />

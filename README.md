@@ -13,7 +13,7 @@ I'm studying Computer Engineering  <br>
 I'm looking to collaborate on Web Development  <br>
 📚 I'm learning for back-end Java and Pyhton  <br>
 I know OOP and MVC  <br>
-I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C# and TS
+I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C#,Pyhton and TS
 <br>- ⚡ In my free time I play chess and video games</p>
 ###
 

@@ -1,4 +1,6 @@
 ## About Me:👋
+<p align="left">I'm Ertuğrul from Türkiye<br><br>- 🔭 I’m working as Full-stack<br>- 📚 I'm currently learning Java and Python<br>- ⚡ In my free time I play chess and video games</p>
+
 I am someone who can communicate quickly with people, is solution-oriented, and compatible with teamwork. I
 attach great importance to learning new things and improving my skills. I am working on this purpose. I want to
 take part in versatile and innovative projects. I believe that I will carry out selfless work together with you with all
@@ -25,9 +27,6 @@ I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C# and TS
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ertuğrulbakisahin.ertuğrulbakisahin&"  />
 </div>
 
-###
-
-<p align="left">I'm Ertuğrul from Türkiye<br><br>- 🔭 I’m working as Full-stack<br>- 📚 I'm currently learning Java and Python<br>- ⚡ In my free time I play chess and video games</p>
 
 ###
 

@@ -1,5 +1,5 @@
 ## About Me:👋
-<p align="left">I'm Ertuğrul from Türkiye<br><br>- 🔭 I’m working as Full-stack<br>- 📚 I'm currently learning Java and Python<br>- ⚡ In my free time I play chess and video games</p>
+<p align="left">I'm Ertuğrul from Türkiye<br>
 
 I am someone who can communicate quickly with people, is solution-oriented, and compatible with teamwork. I
 attach great importance to learning new things and improving my skills. I am working on this purpose. I want to
@@ -7,14 +7,15 @@ take part in versatile and innovative projects. I believe that I will carry out 
 my sincerity
 
 
-I'm Fullstack Web Developer <br>
+🔭 I'm Fullstack Web Developer <br>
 I'm currently working on Angular  <br>
 I'm studying Computer Engineering  <br>
 I'm looking to collaborate on Web Development  <br>
-I'm learning for back-end Java and Pyhton  <br>
+📚 I'm learning for back-end Java and Pyhton  <br>
 I'm 20.  <br>
 I know OOP and MVC  <br>
 I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C# and TS
+<br>- ⚡ In my free time I play chess and video games</p>
 ###
 
 <div align="center">

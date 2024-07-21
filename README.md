@@ -1,10 +1,10 @@
-## Introduce Me:👋
+## About Me:👋
 I am someone who can communicate quickly with people, is solution-oriented, and compatible with teamwork. I
 attach great importance to learning new things and improving my skills. I am working on this purpose. I want to
 take part in versatile and innovative projects. I believe that I will carry out selfless work together with you with all
 my sincerity
 
-## About Me:
+
 I'm Fullstack Web Developer <br>
 I'm currently working on Angular  <br>
 I'm studying Computer Engineering  <br>
@@ -24,14 +24,6 @@ I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C# and TS
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ertuğrulbakisahin.ertuğrulbakisahin&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 

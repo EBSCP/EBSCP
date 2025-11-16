@@ -13,7 +13,7 @@ I'm studying Computer Engineering  <br>
 I'm looking to collaborate on Web Development  <br>
 📚 I'm learning for back-end Java and Pyhton  <br>
 I know OOP and MVC  <br>
-I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C#,Pyhton and TS
+I know HTML,CSS,JS,SQL,Java,C,C#,Pyhton and TS
 <br>- ⚡ In my free time I play chess and video games</p>
 ###
 
@@ -44,8 +44,6 @@ I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C#,Pyhton and TS
 <!-- JavaScript Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
 
-<!-- PHP Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
 
 <!-- Oracle Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle logo" />
@@ -71,9 +69,6 @@ I know HTML,CSS,JS,PHP,SQL,Java,C,C++,C#,Pyhton and TS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
 <!-- MySQL Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
-
-<!-- C++ Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
 
 <!-- TypeScript Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />

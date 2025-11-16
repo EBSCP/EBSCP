@@ -62,9 +62,6 @@ I know HTML,CSS,JS,SQL,Java,C,C#,Pyhton and TS
 <!-- React Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
 
-<!-- Laravel Logo -->
-<img src="https://github.com/EBSCP/pythonEducation/blob/main/indir%20(1).jpg" height="30" alt="Laravel logo" />
-
 <!-- SQLite Logo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
 <!-- MySQL Logo -->
